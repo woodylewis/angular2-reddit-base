@@ -1,0 +1,718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ho",
+				"homeState"
+			],
+			[
+				"backgro",
+				"backgroundImage"
+			],
+			[
+				"goth",
+				"gothamLaneApp"
+			],
+			[
+				"tr",
+				"trustedCopy"
+			],
+			[
+				"trus",
+				"trustedImage"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"title",
+				"titleList"
+			],
+			[
+				"fe",
+				"fetchListings"
+			],
+			[
+				"fet",
+				"fetchTitles"
+			],
+			[
+				"data",
+				"dataService"
+			],
+			[
+				"lis",
+				"listing"
+			],
+			[
+				"clic",
+				"clickListen"
+			],
+			[
+				"dat",
+				"dataService"
+			],
+			[
+				"narr",
+				"narrationEngine"
+			],
+			[
+				"nar",
+				"narrationPageUrl"
+			],
+			[
+				"narrati",
+				"narrationUrl"
+			],
+			[
+				"FETC",
+				"fetchNarration"
+			],
+			[
+				"narrat",
+				"narrationUrl"
+			],
+			[
+				"na",
+				"narrations"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"stat",
+				"stateParams"
+			],
+			[
+				"sta",
+				"stateParams"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"loca",
+				"locationProvider"
+			],
+			[
+				"fetch",
+				"fetchManifest"
+			],
+			[
+				"jso",
+				"jsonURL"
+			],
+			[
+				"json",
+				"jsonURL"
+			],
+			[
+				"fetchBl",
+				"fetchBlogService"
+			],
+			[
+				"main",
+				"mainCtrl"
+			],
+			[
+				"brow",
+				"browserifyDist"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"mini",
+				"minifyCSS"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"crea",
+				"CreativeWorksRanks"
+			],
+			[
+				"sub",
+				"subjectRanks"
+			],
+			[
+				"subj",
+				"subjectRanks"
+			],
+			[
+				"key",
+				"keyWordTypes"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"sell",
+				"sell"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"tick",
+				"tickSubdivide"
+			],
+			[
+				"cons",
+				"consoleCtrl"
+			],
+			[
+				"delete",
+				"DELETE"
+			],
+			[
+				"m",
+				"myIoSocket"
+			],
+			[
+				"my",
+				"mySocket"
+			],
+			[
+				"c",
+				"currentStock"
+			],
+			[
+				"d3",
+				"d3Service"
+			],
+			[
+				"p",
+				"posts"
+			],
+			[
+				"service",
+				"serviceInstance"
+			],
+			[
+				"vie",
+				"view1"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.ts",
+			"settings":
+			{
+				"buffer_size": 677,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/woody/Documents/WLS/ng2/ng-book-code/first_app/angular2-reddit-base/app.js",
+		"/Users/woody/Desktop/services.js",
+		"/Users/woody/Documents/WRITING/3LOSTSOULS/NOOK/TLS-nook.epub",
+		"/Users/woody/wls-gotham/src/js/controllers/GothamLaneAppController.js",
+		"/Users/woody/wls-gotham/src/less/app.less",
+		"/Users/woody/wls-gotham/src/js/app.js",
+		"/Users/woody/wls-gotham/src/js/directives/gothamLaneApp.js",
+		"/Users/woody/wls-gotham/src/index.html",
+		"/Users/woody/wls-gotham/Gruntfile.js",
+		"/Users/woody/wls-gotham/src/templates/join.html",
+		"/Users/woody/wls-gotham/src/js/services/preloader.js",
+		"/Users/woody/wls-gotham/src/templates/gothamLaneHome-tpl.html",
+		"/Users/woody/wls-gotham/src/js/services/dataService.js",
+		"/Users/woody/wls-gotham/src/js/controllers/GothamLaneHomeController.js",
+		"/Users/woody/wls-gotham/src/templates/gothamLaneApp-tpl.html",
+		"/Users/woody/wls-gotham/src/js/directives/gothamLaneHome.js",
+		"/Users/woody/wls-gotham/package.json",
+		"/Users/woody/Desktop/index.html",
+		"/Users/woody/wls-gotham/dist/index.html",
+		"/Users/woody/wls-gotham/src/mail.html",
+		"/Users/woody/wls-gotham/src/templates/trends.html",
+		"/Users/woody/Documents/GL/GL - WORKSPACE/GL-logo-web-resources/css/idGeneratedStyles.css",
+		"/Users/woody/wls-gotham/src/js/directives/front.js",
+		"/Users/woody/wls-gotham/src/css/app.css",
+		"/Users/woody/Pictures/christopher-lane-1.crop.BW.jpg",
+		"/Users/woody/Desktop/src/js/directives/userMgmtUserInfo.js",
+		"/Users/woody/Desktop/src/js/directives/userMgmtHome.js",
+		"/Users/woody/Desktop/src/js/directives/userMgmtApp.js",
+		"/Users/woody/Desktop/src/less/app.less",
+		"/Users/woody/Desktop/src/js/app.js",
+		"/Users/woody/Desktop/src/templates/userMgmtApp-tpl.html",
+		"/Users/woody/Desktop/src/index.html",
+		"/Users/woody/wls-gotham/src/js/controllers/UserMgmtAppController.js",
+		"/Users/woody/wls-gotham/src/templates/one.html",
+		"/Users/woody/wls-gotham/src/img/gl-logo.png",
+		"/Users/woody/wls-gotham/src/templates/front-tpl.html",
+		"/Users/woody/wls-gotham/src/partials/one.html",
+		"/Users/woody/Desktop/wl-net/wl-net.sublime-project",
+		"/Users/woody/wls-gotham/src/templates/home-tpl.html",
+		"/Users/woody/wls-gotham/src/js/directives/home.js",
+		"/Users/woody/wls-gotham/src/templates/home.html",
+		"/Users/woody/wls-gotham/src/templates/home",
+		"/Users/woody/wls-gotham/.gitignore",
+		"/Users/woody/wls-gotham/src/listings_v3.json",
+		"/Users/woody/wls-gotham/.bowerrc",
+		"/Users/woody/wls-gotham/dist/js/gl.js",
+		"/Users/woody/wls-gotham/src/font-awesome-4.4.0/css/font-awesome.css",
+		"/Users/woody/wls-gotham/src/font-awesome-4.4.0/css/font-awesome.min.css",
+		"/Users/woody/wls-gotham/dist/js/gl-min.js",
+		"/Users/woody/Desktop/GL-S3/listings.json",
+		"/Users/woody/wls-gotham/src/templates/listing-tpl.html",
+		"/Users/woody/wls-gotham/src/js/directives/listing.js",
+		"/Users/woody/wls-gotham/src/json/listings.json",
+		"/Users/woody/wls-gotham/src/js/controllers/eventBus.js",
+		"/Users/woody/wls-gotham/src/templates/listing.html",
+		"/Users/woody/wls-gotham/src/json/data.json",
+		"/Users/woody/wls-gotham/src/templates/base-tpl.html",
+		"/Users/woody/wls-gotham/src/js/directives/alpha.js",
+		"/Users/woody/wls-gl-server/wls-gl-server.sublime-project",
+		"/Users/woody/wls-ng-infinite/src/less/app.less",
+		"/Users/woody/wls-ng-infinite/src/partials/main.html",
+		"/Users/woody/wls-ng-infinite/package.json",
+		"/Users/woody/wls-ng-infinite/src/partials/narration.html",
+		"/Users/woody/wls-ng-infinite/src/js/services/narrationEngine.js",
+		"/Users/woody/wls-ng-infinite/src/less/skeleton.less",
+		"/Users/woody/wls-ng-infinite/README.md",
+		"/Users/woody/wls-ng-infinite/src/index.html",
+		"/Users/woody/wls-ng-infinite/src/partials/narration-url.html",
+		"/Users/woody/wls-ng-infinite/src/css/app.css",
+		"/Users/woody/wls-ng-infinite/Gruntfile.js",
+		"/Users/woody/wls-ng-infinite/src/js/services/narrationService.js",
+		"/Users/woody/wls-ng-infinite/src/js/partials/main.html",
+		"/Users/woody/wls-gl-server/README.md",
+		"/Users/woody/wls-gl-server/package.json",
+		"/Users/woody/wls-gl-server/.gitignore",
+		"/Users/woody/wls-gothamlane/app/controllers/mainCtrl.js",
+		"/Users/woody/wls-gothamlane/app/less/skeleton.less",
+		"/Users/woody/wls-gothamlane/app/font-awesome-4.4.0/css/font-awesome.css",
+		"/Users/woody/wls-gothamlane/app/partials/about.html",
+		"/Users/woody/wls-gothamlane/app/css/app.css",
+		"/Users/woody/wls-gothamlane/package.json",
+		"/Users/woody/wls-gothamlane/Gruntfile.js",
+		"/Users/woody/wls-gothamlane/app/app.css",
+		"/Users/woody/wls-gothamlane/app/bower_components/angular/angular.js",
+		"/Users/woody/wls-gothamlane/bower.json",
+		"/Users/woody/wls-gothamlane/.gitignore",
+		"/Users/woody/wls-gothamlane/README.md",
+		"/Users/woody/wls-fetch-json/app/partials/main_state.html",
+		"/Users/woody/wls-fetch-json/app/partials/blog_post_url.html",
+		"/Users/woody/wls-fetch-json/app/less/skeleton.less",
+		"/Users/woody/wls-fetch-json/Gruntfile.js",
+		"/Users/woody/wls-fetch-json/app/json/blues-mr-david.json",
+		"/Users/woody/wls-fetch-json/app/less/app.less.css",
+		"/Users/woody/wls-fetch-json/app/json/tone-deaf-publishers-strike-again.json",
+		"/Users/woody/wls-fetch-json/app/css/wls.css",
+		"/Users/woody/wls-fetch-json/app/json/fog-more.json",
+		"/Users/woody/wls-fetch-json/app/partials/content.html",
+		"/Users/woody/wls-fetch-json/app/partials/content2.html",
+		"/Users/woody/wls-fetch-json/app/manifest.json",
+		"/Users/woody/wls-fetch-server/assets/all-news-fits.json",
+		"/Users/woody/wls-fetch-json/app/partials/sample.html",
+		"/Users/woody/ng/wls-fetch-blog/app/partials/blog_list.html",
+		"/Users/woody/ng/wls-fetch-blog/app/css/app.css",
+		"/Users/woody/ng/wls-fetch-blog/app/app.js",
+		"/Users/woody/wls-fetch-json/app/css/app.css",
+		"/Users/woody/wls-fetch-json/manifest.json",
+		"/Users/woody/wls_send_jlist.php",
+		"/Users/woody/wls-fetch-json/app/json/post.json",
+		"/Users/woody/wls-fetch-json/app/index.html",
+		"/Users/woody/Desktop/GL-S3/index.html",
+		"/Users/woody/Desktop/schemas/scoringdata.js",
+		"/Users/woody/periodic-test/package.json",
+		"/Users/woody/ptest/index.js",
+		"/Users/woody/periodic-test/index.js",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.wl/index.js",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.login/settings.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.wl/settings.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.admin/settings.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.cache/settings.json",
+		"/Users/woody/periodic/periodicjs/index.js",
+		"/Users/woody/periodic/periodicjs/content/themes/periodicjs.theme.default/README.md",
+		"/Users/woody/ionic/todo/gulpfile.js",
+		"/Users/woody/ionic/todo/package.json",
+		"/Users/woody/ionic/todo/www/js/app.js",
+		"/Users/woody/ionic/todo/www/index.html",
+		"/Users/woody/wls-webpack/README.md",
+		"/Users/woody/webpack-seed/dist/bundle.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/woody/wls-gotham/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"obfuscation",
+			"rootScope",
+			"logo",
+			"background",
+			"-->\n",
+			"usermgmt",
+			"img",
+			"multiview",
+			"src",
+			"app",
+			"woodylewis",
+			"facebook",
+			"wls-front",
+			"fetch",
+			"this.",
+			"NarrationEngine",
+			"wls-row",
+			"wls-icon",
+			"container",
+			"html",
+			"container",
+			"main",
+			"background",
+			"items",
+			"container",
+			"grid",
+			"container",
+			"container-width-larger-than-mobile",
+			"max",
+			"150px",
+			"myApp",
+			"currentURL",
+			"console",
+			"current",
+			"h5",
+			"h4",
+			"h3",
+			"console",
+			"fetchHome",
+			"URL",
+			"content",
+			"bp-larger-than-mobile",
+			"container-width",
+			"bp-larger-than-mobile",
+			"container-width-larger-than-mobile",
+			"container-width-larger-than-phablet",
+			"container",
+			"width",
+			"wls-box",
+			"style",
+			"div",
+			"content",
+			"base",
+			"console",
+			"book",
+			"favicon",
+			"json",
+			"route",
+			"clean",
+			"1976d2",
+			"2196f3",
+			"urlRouterProvider",
+			"font",
+			"\">\n",
+			"nav-slot",
+			"&reg;",
+			"nav-slot",
+			"topic",
+			"img-responsive",
+			"header",
+			"\">\n",
+			"wlsApp",
+			"ws:",
+			"420",
+			"\">\n",
+			"subjectRanks",
+			"\"",
+			");",
+			"dataset",
+			"fill",
+			"open",
+			"window",
+			"mySocket",
+			"alpha",
+			"data",
+			"console",
+			"fonts",
+			"handle",
+			"chart",
+			"wls-handle",
+			"j",
+			"div",
+			"browsehappy",
+			"header",
+			"img",
+			"index",
+			"header",
+			"css",
+			"myApp",
+			"myapp",
+			"View 1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gothamlane",
+			"gotham",
+			"get",
+			"",
+			"narrationEngine",
+			"narrations",
+			"h6",
+			"h5",
+			"h4",
+			"nav-icon",
+			"&trade;",
+			"nav-icon",
+			"cue",
+			"wlsNYT",
+			"wlsTrade",
+			"socketService",
+			"data2",
+			"data1",
+			"wls-show"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.ts",
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/woody/ng/wls-state/wls-state.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
