@@ -21,7 +21,7 @@ class HelloWorld {
 	name: string;
 
 	constructor() {
-		this.names = ['Ari', 'Carlos', 'Felipe', 'Nate'];
+		this.names = ['Woody', 'Ari', 'Carlos', 'Felipe', 'Nate'];
 	}
 }
 
